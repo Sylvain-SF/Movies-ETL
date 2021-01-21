@@ -1,6 +1,10 @@
+# Add J-son.
+wikipedia-movies.json
+
 # Add csv.
 movies_metadata.csv
 ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
