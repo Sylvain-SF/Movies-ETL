@@ -5,7 +5,7 @@ config.py
 wikipedia-movies.json
 
 # Add csv.
-movies_metadata.csv
+#movies_metadata.csv
 ratings.csv
 
 # Byte-compiled / optimized / DLL files
